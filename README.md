@@ -29,7 +29,7 @@
 
 
 
-- 🔭 I’m currently working on [Hypermarket](https://github.com/khanna98/hypermarket).
+- 🔭 I’m currently working on DevOps and Cloud Infrastructure.
 - 🌱 I’m currently learning Swift and Machine Learning.
 - 👯 I’m looking to collaborate on [Gitlab](https://gitlab.com/mayank.khanna.98).
 - 🤔 I’m looking for help with an idea for a startup.

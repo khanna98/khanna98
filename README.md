@@ -1,4 +1,4 @@
-# Hi there, I'm [Mayank Khanna!](http://khanna98.github.io/Portfolio2) 👋
+# Hi there, I'm [Mayank Khanna!](https://mayankkhanna.tk) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanna98&label=Views&color=blue&style=plastic" alt="khanna98" /> </p>
 
@@ -14,7 +14,7 @@
 <a href="https://t.me/khanna98">
   <img align="left" alt="Mayank's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/mayank.khanna98/">
+<a href="https://instagram.com/_mayankkhanna/">
   <img align="left" alt="Mayank's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/khannamayank98/">
@@ -30,7 +30,7 @@
 
 
 - 🔭 I’m currently working on DevOps and Cloud Infrastructure.
-- 🌱 I’m currently learning Swift and Machine Learning.
+- 🌱 I’m currently exploring Cloud Engineering and Solutions Architect roles.
 - 👯 I’m looking to collaborate on [Gitlab](https://gitlab.com/mayank.khanna.98).
 - 🤔 I’m looking for help with an idea for a startup.
 - 💬 Ask me about Node.js or any tech related stuff.
@@ -43,12 +43,33 @@
 [![GitHub khanna98](https://img.shields.io/github/followers/khanna98?label=follow&style=social)](https://github.com/khanna98)
 [![website](https://img.shields.io/badge/PortfolioWebsite-about.me/mayankkhanna-2648ff?style=flat-square&logo=google-chrome)](https://about.me/mayankkhanna)
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 **My Stats:** 
+<a href="https://github.com/khanna98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanna98&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/khanna98">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=khanna98&show_icons=true&theme=light&line_height=27" alt="Mayank's github stats"/>
+</a>
 
-<a href="https://github.com/khanna98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanna98&theme=dark&layout=compact" />
+<a href="https://github.com/khanna98/dev-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanna98&repo=dev-portfolio&theme=light" />
+
 </a>
-<a href="https://github.com/khanna98">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=khanna98&show_icons=true&theme=dracula&line_height=27&count_private=true&hide=stars" alt="Mayank's github stats"/>
+<a href="https://github.com/khanna98/ecommerce-clw-mern">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanna98&repo=ecommerce-clw-mern&theme=light" />
 </a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!

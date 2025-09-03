@@ -1,4 +1,4 @@
-# Hi there, I'm [Mayank Khanna!](https://mayankkhanna.tk) 👋
+# Hi there, I'm [Mayank Khanna!](https://mayankkhanna.dev) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanna98&label=Views&color=blue&style=plastic" alt="khanna98" /> </p>
 
